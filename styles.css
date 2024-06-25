@@ -43,7 +43,7 @@
 
 .footer{
     background: linear-gradient(90deg, rgba(147,169,190,1) 5%, rgba(214,185,123,1) 78%);
-    position: absolute;
+    /* position: absolute; */
     width: 100%;
     bottom: 0;
     padding: 30px 0;
